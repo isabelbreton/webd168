@@ -20,12 +20,11 @@ h1 {
   display: grid;
   gap: 2em;
   padding-bottom: 2em;
+  grid-template-columns: repeat(2, 1fr);
 }
 #gallery img {
   box-shadow: 10px 10px 10px #777;
-  object-fit: cover;
-  width: 230px;
-  height: 230px;
+  width: 50%;
 }
 
 #imageofme img {
@@ -33,9 +32,6 @@ h1 {
   width: 30%;
 }
 
-#gallery {
-  grid-template-columns: repeat(2, 1fr);
-}
 footer {
   font-family: Georgia, "Times New Roman", Times, serif;
 }

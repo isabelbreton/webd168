@@ -9,3 +9,8 @@ p:last-of-type {
 h3 {
   color: blue;
 }
+
+.custom {
+  color: red;
+  font-style: italic;
+}

@@ -34,6 +34,8 @@ aside {
   background-color: #ededed;
   padding: 1.25rem;
   margin-left: 1rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.8);
 }
 
 aside p {
@@ -114,3 +116,4 @@ p {
     font-size: 0.9rem;
   }
 }
+

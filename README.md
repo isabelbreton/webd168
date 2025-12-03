@@ -1,6 +1,6 @@
 # Isabel's WEBD158 Website
  <li>
-              <a href="lesson01/aboutme/index.html">About Me</a>
+              <a href="lesson01/index.html">About Me</a>
             </li>
             <li>
               <a href="lesson02/selector_basics_start.html">Selectors</a>

@@ -1,0 +1,16 @@
+a[href="/en-US/docs/Glossary/CSS"] {
+  color: green;
+}
+
+p:last-of-type {
+  font-style: italic;
+}
+
+h3 {
+  color: blue;
+}
+
+.custom {
+  color: red;
+  font-style: italic;
+}

@@ -1,0 +1,24 @@
+hr.divider {
+  height: 0.2rem;
+  max-width: 3.25rem;
+  margin: 1.5rem auto;
+  background-color: #476aff;
+  opacity: 1;
+}
+
+hr.divider-light {
+  background-color: #fff;
+}
+
+
+:root {
+    --bs-primary-rgb: 71, 106, 255;
+    --bs-secondary-rgb: 71, 106, 255;
+  --bs-success-rgb: 71, 106, 255;
+  --bs-info-rgb: 71, 106, 255;
+  --bs-warning-rgb: 71, 106, 255;
+  --bs-danger-rgb: 220, 53, 69;
+  --bs-light-rgb: 248, 249, 250;
+  --bs-dark-rgb: 71, 106, 255;
+  --bs-link-hover-color: #476aff;
+}
